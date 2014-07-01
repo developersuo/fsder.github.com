@@ -4,7 +4,7 @@ category : lessons
 tagline: "Supporting tagline"
 tags : [first]
 ---
-{% include JB/setup %}
+> {% include JB/setup %}
 
 开始
 
